@@ -22,7 +22,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Releases
-
+- Latest Release: [v0.1](https://github.com/hackerchai/Magisk-Revoke-China-Certs/releases/download/v0.1/revoke_china_certs-v0.1.zip)
 
 ## Usage
 * 安装
