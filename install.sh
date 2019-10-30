@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "×××××××××××××××××××××××××××××××××××××××××××××××"
-  ui_print "     Remove China Risky Certificates    "
+  ui_print "     Revoke China Certificates    "
   ui_print "     Author: Eason Chai (hackerchai)    "
   ui_print "     Version: v0.1    "
   ui_print "×××××××××××××××××××××××××××××××××××××××××××××××"
