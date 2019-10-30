@@ -1,0 +1,7 @@
+id=revoke_china_certs
+name=Revoke China Certificates
+version=v0.1
+versionCode=1
+author=hackerchai
+description=This module revokes risky Chinese certificates in case of potential security and censorship problem. Repo: https://github.com/hackerchai/Magisk-Revoke-China-Certs
+
